@@ -6,9 +6,9 @@ import "./style.css";
 function App() {
   return (
     <div>
-      {/* <Register /> */}
+      <Register />
       {/* <Login /> */}
-      <Home />
+      {/* <Home /> */}
     </div>
   );
 }
